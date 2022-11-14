@@ -38,7 +38,7 @@ foreach($_SESSION['xRttpHo0greL39'] as $i){
     <div class="container">
       <div class="row">
         <div class="col-sm-8 col-md-7 py-4">
-          <a href="/monoshop/index.php" <h4 class="text-white">ZSquad</h4> </a>
+          <a href="/" <h4 class="text-white">ZSquad</h4> </a>
           <p class="text-muted">Bienvenues sur mon site, nous vendons n'importe quel type de chaussure faite vos choix et nous l'expédions aussi vite que possible.</p>
         </div>
         <div class="col-sm-4 offset-md-1 py-4">
