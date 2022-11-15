@@ -116,6 +116,8 @@ foreach($_SESSION['xRttpHo0greL39'] as $i){
                 <td style="font-weight: bold; color: green;"><?= $produit->prix ?>€</td>
                 <td><?= substr($produit->description, 0, 100); ?>...</td>
                 <td><a href="editer.php?id=<?= $produit->id ?>"><i class="fa fa-pencil" style="font-size: 30px;"></i></a></td>
+                <td><a href="supprimer.php?id=<?= $produit->id ?>"><i class="fa fa-trash" style="font-size: 30px;"></i></a></td>
+
                 </tr>      
 <?php endforeach; ?>
 
